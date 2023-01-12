@@ -18,10 +18,10 @@
 </h3>
 
 <h2>:man_technologist: About Me:</h2>
-- 👋 Hi, I’m Chris
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning C#, .NET, and React
-- 💞️ I’m looking to collaborate on open source projects
+- 👋 Hi, I’m Chris <br>
+- 👀 I’m interested in full stack development <br>
+- 🌱 I’m currently learning C#, .NET, and React <br>
+- 💞️ I’m looking to collaborate on open source projects <br>
 - 📫 Contact me: chriskloveless@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
