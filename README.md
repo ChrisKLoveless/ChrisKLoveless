@@ -39,9 +39,8 @@
 ### :fire: My Stats :
 *Special thanks to [Anurag Hazra](https://github.com/anuraghazra) for their [stats source code](https://github.com/anuraghazra/github-readme-stats) and documentation.*
 
-![chriskloveless's GitHub stats](https://github-readme-stats-alpha-lime.vercel.app/api?username=ChrisKLoveless&theme=dark&show_icons=true) 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChrisKLoveless&theme=dark)
-![chriskloveless's GitHub stats](https://github-readme-stats-alpha-lime.vercel.app/api/top-langs?username=ChrisKLoveless&theme=dark&show_icons=true&locale=en&layout=compact) 
+![chriskloveless's GitHub stats](https://github-readme-stats-alpha-lime.vercel.app/api?username=ChrisKLoveless&theme=gruvbox&show_icons=true) 
+![chriskloveless's GitHub stats](https://github-readme-stats-alpha-lime.vercel.app/api/top-langs?username=ChrisKLoveless&theme=gruvbox&show_icons=true&locale=en&layout=compact) 
 
 
 
