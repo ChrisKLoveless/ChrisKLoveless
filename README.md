@@ -37,11 +37,13 @@
 </div>
 
 ### :fire: My Stats :
-*Special thanks to [Anurag Hazra](https://github.com/anuraghazra) for their [stats source code](https://github.com/anuraghazra/github-readme-stats) and documentation.*
 
-![chriskloveless's GitHub stats](https://github-readme-stats-alpha-lime.vercel.app/api?username=ChrisKLoveless&theme=gruvbox&show_icons=true) 
-![chriskloveless's GitHub stats](https://github-readme-stats-alpha-lime.vercel.app/api/top-langs?username=ChrisKLoveless&theme=gruvbox&show_icons=true&locale=en&layout=compact) 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/apiusername=ChrisKLoveless&show_icons=true&theme=dark&hide=issues&hide_border=true&count_private=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisKLoveless&layout=compact&theme=dark&hide_border=true"/>
+</a>
 
 
 
