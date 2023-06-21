@@ -39,7 +39,7 @@
 ### :fire: My Stats :
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/apiusername=ChrisKLoveless&show_icons=true&theme=dark&hide=issues&hide_border=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisKLoveless&show_icons=true&theme=dark&hide=issues&hide_border=true&count_private=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisKLoveless&layout=compact&theme=dark&hide_border=true"/>
