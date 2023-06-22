@@ -12,11 +12,16 @@
 </h3>
 
 <h2>:man_technologist: About Me:</h2>
-- 👋 Hi, I'm Chris Loveless.
-- 👀 I'm interested in Full Stack Development and finding a role where I can bring value to a team while I grow as a developer.
-- 🌱 I'm a recent Epicodus graduate and EyeCue Lab intern, where I gained valuable technical and professional experience.
-- 💞️ I'm looking to collaborate with multi-dimensional teams on robust projects that serve many users.
-- 📫 Contact me at chriskloveless@gmail.com.
+
+👋 Hi, I'm Chris Loveless.
+
+👀 I'm interested in Full Stack Development and finding a role where I can bring value to a team while I grow as a developer.
+
+🌱 I'm a recent Epicodus graduate and EyeCue Lab intern, where I gained valuable technical and professional experience.
+
+💞️ I'm looking to collaborate with multi-dimensional teams on robust projects that serve many users.
+
+📫 Contact me at chriskloveless@gmail.com.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
